@@ -10,10 +10,11 @@ My GitHub page is http://github.com/CSUFVincent.
 
 * Lab 7
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 7, part 2 was a favorite because I had created a BlackJack game before in python
+    however C++ was a different langauge. My code in python was very messy and didn't have 
+    the different files that we had today. It was quite fun to code and work though the errors
+    that I had received.
+    
 * Lab 1 
 
     Lab 1, was one of my favorite labs becuase it was putting the subjects 
